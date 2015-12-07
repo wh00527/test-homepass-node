@@ -1,0 +1,18 @@
+{
+  "name": "test-homepass",
+  "version": "1.0.0",
+  "description": "homepass nodejs test",
+  "main": "test.js",
+  "scripts": {
+    "start": "node ./test.js"
+  },
+  "dependencies": {
+    "openweathermap": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin",
+  "license": "ISC"
+}
